@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""TEST : Code from Colas to check if it's a code or checker error"""
+"""TEST : Code from Colas to check if 
+it's a code or checker error (sandbox)"""
 import requests
 import sys
 
